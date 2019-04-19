@@ -1,0 +1,7 @@
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\bin\Debug\CMPE314 team 3.exe.config
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\bin\Debug\CMPE314 team 3.exe
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\bin\Debug\CMPE314 team 3.pdb
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\obj\Debug\CMPE314 team 3.csprojAssemblyReference.cache
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\obj\Debug\CMPE314 team 3.csproj.CoreCompileInputs.cache
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\obj\Debug\CMPE314 team 3.exe
+C:\Users\campi\source\repos\CMPE314 team 3\CMPE314 team 3\obj\Debug\CMPE314 team 3.pdb
