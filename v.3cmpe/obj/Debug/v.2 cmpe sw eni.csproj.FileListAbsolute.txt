@@ -1,0 +1,30 @@
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe.config
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.pdb
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csprojAssemblyReference.cache
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Form1.resources
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Properties.Resources.resources
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.GenerateResource.cache
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.CoreCompileInputs.cache
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.exe
+C:\Users\campi\source\repos\v.2 cmpe sw eni\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.pdb
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.exe
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.pdb
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe.config
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csprojAssemblyReference.cache
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Form1.resources
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Properties.Resources.resources
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.GenerateResource.cache
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.CoreCompileInputs.cache
+C:\Users\NoOneReally\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.pdb
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe.config
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.exe
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\bin\Debug\v.2 cmpe sw eni.pdb
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csprojAssemblyReference.cache
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Form1.resources
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v._2_cmpe_sw_eni.Properties.Resources.resources
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.GenerateResource.cache
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.csproj.CoreCompileInputs.cache
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.exe
+C:\Users\abu nasser\Desktop\v.2 cmpe sw eni\obj\Debug\v.2 cmpe sw eni.pdb
